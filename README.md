@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://windbnb-psi.vercel.app/">
       Demo
     </a>
     <span> | </span>
@@ -29,7 +29,6 @@
 - [Features](#features)
 - [How to use](#how-to-use)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
 
